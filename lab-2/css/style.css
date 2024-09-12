@@ -1,0 +1,48 @@
+
+
+
+/** Step one **/
+@import url('https://fonts.googleapis.com/css2?family=Cedarville+Cursive&family=Kanit:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=SUSE:wght@100..800&display=swap');
+/* font-family: "Cedarville Cursive", cursive; */
+
+
+  @import url('https://fonts.googleapis.com/css2?family=Kanit:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=SUSE:wght@100..800&display=swap');
+  /* font-family: "Kanit", sans-serif; */
+
+
+/** Step two **/
+h1, h2, h3, h4, h5, h6{
+    font-family : "Cedarville Cursive", cursive;
+    font-weight : 900;
+}
+/* Step two over */
+
+
+/** Step three **/
+h1{
+    height : 46px;
+    letter-spacing : 1px;
+    text-align: center;
+    color : green;
+}
+/* Step three over */
+
+/** Step four **/
+p, a, li{
+    font-family: "Kanit", sans-serif;
+}
+/* Step Four over */
+
+/** Step five **/
+body p span{
+    color : red;
+    font-style:italic;
+}
+/* Step five over  */
+
+/** Step six **/
+h3{
+    font-size: 5em;
+    text-shadow : 4px 3px 4px rgba(0,0,0,0.6);
+}
+/* Step six over  */
